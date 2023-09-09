@@ -1,3 +1,0 @@
-cargo:rerun-if-changed=build/main.rs
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/huych/Documents/cg_p2p_client (copy)/target/debug/build/typenum-21a001410152a7aa/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/Users/huych/Documents/cg_p2p_client (copy)/target/debug/build/typenum-21a001410152a7aa/out/op.rs
